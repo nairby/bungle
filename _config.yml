@@ -30,7 +30,7 @@ twitter_username: nai3ry
 github_username:  nairby
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
